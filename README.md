@@ -15,7 +15,7 @@ This repository contains my work on Quantium’s Data Analytics Virtual Experien
 - data_analysis.ipynb – Code for cleaning, merging, transforming, analyzing the datasets and generating key insights.
 - store_comparision.ipynb – Code for evaluating trial store performance.
 - Quantium Insights Presentation.pptx – A PowerPoint presentation summarizing the findings with visuals.
-- Datasets/ – Contains the two datasets used for analysis.
+- QVI_transaction_data & QVI_purchase_behavior - Data Sources
 
 ## Credential
 Check Out my credential here: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_qcHfj2YS2vrhXcYSW_1742842118028_completion_certificate.pdf
